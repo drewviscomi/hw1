@@ -143,8 +143,6 @@ CREATE TABLE roles (
 -- Use hard-coded foreign key IDs when necessary
 -- TODO!
 
--- Insert data into your database that reflects the sample data shown above
-
 -- Insert studio
 INSERT INTO studios (name) VALUES ('Warner Bros.');
 
